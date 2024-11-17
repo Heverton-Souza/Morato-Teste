@@ -1,2 +1,5 @@
 # Morato-Teste
-Repositório para teste dos códigos do Morato
+
+Foi criado um pacote com um publisher e um subscriber apenas para testes relacionados a organização dos códigos do Morato no github
+
+## Este é o README da branch main

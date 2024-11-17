@@ -1,0 +1,33 @@
+[0.972s] Invoking command in '/home/heverton/Morato-Teste/ros2_ws/src/pacote_teste': PYTHONPATH=/home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pacote_teste build --build-base /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build install --record /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/install.log --single-version-externally-managed install_data
+[1.380s] running egg_info
+[1.381s] creating ../../build/pacote_teste/pacote_teste.egg-info
+[1.381s] writing ../../build/pacote_teste/pacote_teste.egg-info/PKG-INFO
+[1.381s] writing dependency_links to ../../build/pacote_teste/pacote_teste.egg-info/dependency_links.txt
+[1.382s] writing entry points to ../../build/pacote_teste/pacote_teste.egg-info/entry_points.txt
+[1.382s] writing requirements to ../../build/pacote_teste/pacote_teste.egg-info/requires.txt
+[1.382s] writing top-level names to ../../build/pacote_teste/pacote_teste.egg-info/top_level.txt
+[1.382s] writing manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+[1.384s] reading manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+[1.385s] writing manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+[1.386s] running build
+[1.386s] running build_py
+[1.386s] creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build
+[1.386s] creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib
+[1.386s] creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste
+[1.387s] copying pacote_teste/__init__.py -> /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste
+[1.387s] running install
+[1.387s] running install_lib
+[1.388s] creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste
+[1.388s] copying /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste/__init__.py -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste
+[1.388s] byte-compiling /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste/__init__.py to __init__.cpython-310.pyc
+[1.389s] running install_data
+[1.389s] creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index
+[1.389s] creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index
+[1.389s] creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index/packages
+[1.389s] copying resource/pacote_teste -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index/packages
+[1.390s] copying package.xml -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/pacote_teste
+[1.390s] running install_egg_info
+[1.392s] Copying ../../build/pacote_teste/pacote_teste.egg-info to /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste-0.0.0-py3.10.egg-info
+[1.393s] running install_scripts
+[1.425s] writing list of installed files to '/home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/install.log'
+[1.460s] Invoked command in '/home/heverton/Morato-Teste/ros2_ws/src/pacote_teste' returned '0': PYTHONPATH=/home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pacote_teste build --build-base /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build install --record /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/install.log --single-version-externally-managed install_data

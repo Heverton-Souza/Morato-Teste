@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/pacote_teste/pacote_teste.egg-info
+writing ../../build/pacote_teste/pacote_teste.egg-info/PKG-INFO
+writing dependency_links to ../../build/pacote_teste/pacote_teste.egg-info/dependency_links.txt
+writing entry points to ../../build/pacote_teste/pacote_teste.egg-info/entry_points.txt
+writing requirements to ../../build/pacote_teste/pacote_teste.egg-info/requires.txt
+writing top-level names to ../../build/pacote_teste/pacote_teste.egg-info/top_level.txt
+writing manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+reading manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+writing manifest file '../../build/pacote_teste/pacote_teste.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build
+creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib
+creating /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste
+copying pacote_teste/__init__.py -> /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste
+running install
+running install_lib
+creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste
+copying /home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/build/lib/pacote_teste/__init__.py -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste
+byte-compiling /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index
+creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index
+creating /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index/packages
+copying resource/pacote_teste -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/ament_index/resource_index/packages
+copying package.xml -> /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/share/pacote_teste
+running install_egg_info
+Copying ../../build/pacote_teste/pacote_teste.egg-info to /home/heverton/Morato-Teste/ros2_ws/install/pacote_teste/lib/python3.10/site-packages/pacote_teste-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/heverton/Morato-Teste/ros2_ws/build/pacote_teste/install.log'

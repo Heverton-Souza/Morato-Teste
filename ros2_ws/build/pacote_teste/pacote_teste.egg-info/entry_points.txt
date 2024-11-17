@@ -1,0 +1,4 @@
+[console_scripts]
+pub = pacote_teste.pub:main
+sub = pacote_teste.sub:main
+
